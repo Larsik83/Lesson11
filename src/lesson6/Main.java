@@ -14,6 +14,7 @@ public class Main {
         texts.set(0,"Summer");
 
 
+
         for(int i=0;i<texts.size();i++){
             System.out.println(texts.get(i));
         }   // 1 способ прохода по коллекции
