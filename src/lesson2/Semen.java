@@ -7,7 +7,7 @@ public class Semen {
         byte b=120;
         byte c= (byte) (b+a);
         int l;
-
+        int u=4;
 
 
 
